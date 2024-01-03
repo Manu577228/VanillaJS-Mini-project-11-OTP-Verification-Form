@@ -86,8 +86,4 @@ form button:hover {
   background: #0e4bf1;
 }
 
-button.active {
-  background-color: darkblue;
-  /* Add any other styles you want for the active state */
-}
 
